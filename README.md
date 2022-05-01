@@ -45,6 +45,13 @@ B2C模式：后台管理系统、前台用户系统
 ###### gateway网关
 ###### 4.MyBatisPlus： 对mybatis的增强 自动填充、乐观锁、逻辑删除等
 ###### 5.EasyExcel：操作excel工具，代码简洁，效率高，是对poi进行封装，采用sax方式解析（分行读取）
+###### 6.springsecurity
+###### 7.redis
+###### 8.Nginx
+###### 9.OAuth2+JWT
+###### 10.HttpClient
+###### 11.Cookie
+###### 12.git
+###### 13.Docker+Jenkins
 
-# 3.开发中遇到的问题：
 
