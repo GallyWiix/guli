@@ -37,12 +37,14 @@ B2C模式：后台管理系统、前台用户系统
 ## 后端技术
 ###### 1.微服务架构
 ###### 2.SpringBoot 快速构建Spring工程的脚手架 
-###### 3.SpringCloud 多种框架的总称，用于实现微服务架构![image](https://user-images.githubusercontent.com/100057126/166130309-5ce2c206-5b3f-409c-a218-8cd13124c2a4.png)
-
-
-
-###### 4.MyBatisPlus
-###### 5.EasyExcel
+###### 3.SpringCloud 多种框架的总称，用于实现微服务架构
+![image](https://user-images.githubusercontent.com/100057126/166130309-5ce2c206-5b3f-409c-a218-8cd13124c2a4.png)
+###### nacos：使用nacos作为注册中心，配置中心
+###### feign：服务调用，一个微服务调用另一个微服务
+###### 熔断器
+###### gateway网关
+###### 4.MyBatisPlus： 对mybatis的增强 自动填充、乐观锁、逻辑删除等
+###### 5.EasyExcel：操作excel工具，代码简洁，效率高，是对poi进行封装，采用sax方式解析（分行读取）
 
 # 3.开发中遇到的问题：
 
